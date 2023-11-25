@@ -4,7 +4,7 @@ import pyfiglet
 
 init(autoreset=True)
 
-header_text = "R 9 4 X S"
+header_text = "Show Password Wifi"
 colored_header = Fore.RED + pyfiglet.figlet_format(header_text) + Style.RESET_ALL
 
 print(colored_header)
